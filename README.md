@@ -15,7 +15,7 @@
 
 | 软件名 | 地址 | 原软件 | 官网 | Github |
 | ------ | ------ | ---- | ------ | ------ |
-| **destiny_aria2** |[下载](http://deb.ycst.work/destiny_aria2-0.0.1-debian-amd64.deb)| aria2 | https://aria2.github.io | https://github.com/aria2/aria2 |
+| **destiny_aria2** |[下载](http://deb.ycst.work/aria2-0.0.2-debian-amd64.deb)| aria2 | https://aria2.github.io | https://github.com/aria2/aria2 |
 |        ||      |      |        |
 |        ||      |      |        |
 
