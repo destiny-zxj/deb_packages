@@ -1,0 +1,12 @@
+[Unit]
+Description=Aria2
+After=network.target
+ 
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/bin/aria2c --conf-path=/etc/aria2/aria2.conf
+ExecStop=kill -9 $(pidof aria2c)
+ 
+[Install]
+WantedBy=multi-user.target
