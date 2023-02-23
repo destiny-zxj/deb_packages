@@ -1,5 +1,6 @@
 #!/bin/sh
 chmod 777 /etc/aria2/aria2.session
-systemctl daemon-reload
 chown root:root -R /etc/aria2
 chown root:root -R /etc/systemd/system/aria2.service
+systemctl daemon-reload
+systemctl enable aria2
