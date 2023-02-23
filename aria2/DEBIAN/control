@@ -1,4 +1,4 @@
-Package: destiny-aria2
+Package: aria2
 Version: 0.0.2
 Section: utils
 Priority: optional
