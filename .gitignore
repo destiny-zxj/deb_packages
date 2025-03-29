@@ -3,3 +3,4 @@
 *.deb
 **/*.deb
 packages
+**/opt

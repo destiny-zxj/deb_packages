@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+ln -s /opt/desai/desai /usr/bin/desai

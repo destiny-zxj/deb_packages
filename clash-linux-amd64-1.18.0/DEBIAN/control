@@ -1,0 +1,9 @@
+Package: clash
+Version: 1.18.0
+Section: utils
+Priority: optional
+Architecture: amd64
+Installed-Size: 218600
+Maintainer: destiny_zxj<destiny_zxj@163.com>
+Provides: ycst
+Description: self deb package

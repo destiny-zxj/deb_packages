@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+
+#sed -i "s|#dynamic_chain|dynamic_chain|" /etc/proxychains4.conf 
+#sed -i "s|strict_chain|#strict_chain|" /etc/proxychains4.conf
+#sed -i "/127.0.0.1 9050/d" /etc/proxychains4.conf
+
+#echo  "http  127.0.0.1 7890" >>  /etc/proxychains4.conf
+bash /opt/clash_linux/start.sh
